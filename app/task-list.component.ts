@@ -43,8 +43,8 @@ export class TaskListComponent {
     this.filterByCompleteness = optionFromMenu;
   }
 
-  toggleDone() {
-
+  toggleDone(clickedTask: Task, setCompleteness: boolean) {
+    clickedTask.done = setCompleteness;
   }
 
 
