@@ -3,7 +3,7 @@
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/akane0915/angular-to-do-list",
   "ignore": [
     "**/.*",
     "node_modules",
